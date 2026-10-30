@@ -4,7 +4,7 @@
 
 [学习进度与阶段记录](docs/learning/README.md)
 
-当前进行 M0 第 5 课：使用 pytest fixture 准备测试数据。
+当前进行 M0 第 7 课：测试评分器。
 
 ## 环境准备
 
