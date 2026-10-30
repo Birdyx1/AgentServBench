@@ -4,7 +4,7 @@
 
 [学习进度与阶段记录](docs/learning/README.md)
 
-当前进行 M0 第 7 课：测试评分器。
+当前进行 M0 第 8 课：CI 与 GitHub Actions。
 
 ## 环境准备
 
