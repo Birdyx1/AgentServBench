@@ -4,8 +4,8 @@
 
 [学习进度与阶段记录](docs/learning/README.md)
 
-当前进行 M0 第 2 课：项目结构与依赖环境。
+当前进行 M0 第 5 课：使用 pytest fixture 准备测试数据。
 
 ## 环境准备
 
-项目使用 Python 3.12 和 uv。运行 `uv sync` 创建或同步 `.venv`，运行 `.venv/bin/python --version` 检查版本。项目当前尚未安装 pytest 或其他第三方依赖；后续课程再添加并更新锁文件。
+项目使用 Python 3.12 和 uv。运行 `uv sync` 创建或同步 `.venv`，运行 `.venv/bin/python --version` 检查版本。pytest 已列为开发依赖，可使用 `.venv/bin/python -m pytest --version` 检查项目环境中的版本。
