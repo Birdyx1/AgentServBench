@@ -1,0 +1,11 @@
+[project]
+name = "agent-eval-lab"
+version = "0.1.0"
+description = "A learning project for evaluating customer service agents"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
