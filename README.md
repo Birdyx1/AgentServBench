@@ -4,7 +4,7 @@
 
 [学习进度与阶段记录](docs/learning/README.md)
 
-当前进行 M0 第 8 课：CI 与 GitHub Actions。
+当前进行 M1 第 1 课：模型、工具与 Agent 执行循环。
 
 ## 环境准备
 
